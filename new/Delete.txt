@@ -1,0 +1,6 @@
+Remove-Item "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt" -Force
+
+New-Item -Path (Get-PSReadlineOption).HistorySavePath -Force
+
+
+
