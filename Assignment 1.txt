@@ -1,0 +1,10 @@
+i.	User EXEC Mode
+ii.	Privileged EXEC Mode
+iii.	exit
+iv.	show version
+v	clear counters
+vi.	exit
+vii.	disable, logout 
+viii.	?
+ix.	hostname
+x.	enable secret
